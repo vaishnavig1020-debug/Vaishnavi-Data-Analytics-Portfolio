@@ -14,5 +14,5 @@ Aspiring Data Analyst skilled in SQL, Excel, and Power BI.
 - Business Analysis
 
 📬 Contact:
-- Email:vaishnavig1020mail@gmail.com
+- Email:vaishnavig1020@gmail.com
 - LinkedIn: www.linkedin.com/in/vaishnavi-gupta-648885272
